@@ -4,5 +4,5 @@
 - [x] Bypass Cloudflare
 - [x] Cache to prevent spam
 - [x] Ablity to pull data on diffrent squads
-- [ ] Example requests
-- [ ] UI for managment
+- [ ] Optinal: Example requests
+- [ ] Optinal: UI for managment
