@@ -1,8 +1,8 @@
 
 # Road Map
 - [x] Pull data from WarThunder
-- [ ] Bypass Cloudflare
-- [ ] Cache to prevent spam
-- [ ] Ablity to pull data on diffrent squads
+- [x] Bypass Cloudflare
+- [x] Cache to prevent spam
+- [x] Ablity to pull data on diffrent squads
 - [ ] Example requests
 - [ ] UI for managment
